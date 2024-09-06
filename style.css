@@ -32,12 +32,14 @@ h4.same{
     color: brown;
     font-size: 25px;
     padding: 0px;
+    margin-top: 20px;
+    margin-bottom: 0px;
 }
 ul.a{
      color:hsl(332, 51%, 32%) ; 
 }
 li{
-    padding: 5px;
+    padding: 8px;
 }
 
 table{
