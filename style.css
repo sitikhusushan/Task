@@ -4,8 +4,11 @@ body{
 }
 
 div.container{
-    margin: 5% 25% 5% 25%;
-    
+    max-width:1250px;
+    margin-left:auto;
+    margin-right:auto;
+    padding-left:20px;
+    padding-right:20px;
 }
 div.front{
     padding: 5%;
